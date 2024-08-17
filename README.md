@@ -96,10 +96,6 @@ Contributions to improve the project are welcome! Please feel free to submit a P
 - Streamlit for the web application framework
 - The open-source community for various libraries used in this project
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📬 Contact
 
 For any queries or suggestions, please open an issue in the GitHub repository.
