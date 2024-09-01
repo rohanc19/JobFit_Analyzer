@@ -6,3 +6,4 @@ nltk
 PyPDF2
 bs4
 pdfplumber
+matplotlib
