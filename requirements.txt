@@ -2,3 +2,7 @@ streamlit
 google-generativeai
 python-dotenv
 pdf2image
+nltk
+PyPDF2
+bs4
+pdfplumber
